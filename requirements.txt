@@ -1,5 +1,4 @@
-﻿streamlit==1.31.0
+streamlit==1.31.0
 pandas==2.2.0
 matplotlib==3.8.2
 scikit-learn
-base64
